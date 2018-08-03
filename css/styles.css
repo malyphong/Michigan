@@ -1,3 +1,28 @@
-img {
+img.main {
   width: 50%;
+}
+
+body{
+  margin: 15px;
+}
+
+h1.{
+  color: #0033cc;
+}
+
+img{
+ width: 50%;
+ height: 120px;
+}
+
+.lists {
+  width: 31%;
+  margin: 10px;
+  float: left;
+}
+
+.michigan {
+  text-align: justify;
+  margin: 150px;
+  float: left;
 }
